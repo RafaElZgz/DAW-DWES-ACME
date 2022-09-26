@@ -34,6 +34,20 @@ params:
     apple_touch_icon: "https://www.rab-devs.com/icon.png"
     safari_pinned_tab: "https://www.rab-devs.com/icon.png"
 
+  profileMode:
+    enabled: true
+    title: ACME
+    subtitle: "Travel & Blog"
+    imageUrl: "https://www.freeiconspng.com/thumbs/travel-icon-png/plane-travel-flight-tourism-travel-icon-png-10.png"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: Logo
+    buttons:
+      - name: Viajes
+        url: travels
+      - name: Blog
+        url: blog
+
   homeInfoParams:
     Title: "Hola \U0001F44B"
     Content: Bienvenido a este blog de viajes.
