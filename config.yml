@@ -36,7 +36,7 @@ params:
 
   homeInfoParams:
     Title: "Hola \U0001F44B"
-    Content: Bienvenido a este blog de viajes
+    Content: Bienvenido a este blog de viajes.
 
   socialIcons:
     - name: twitter
