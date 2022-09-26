@@ -1,0 +1,60 @@
+baseURL: 'http://acme.org/'
+languageCode: 'es-ES'
+title: 'ACME - Rafa'
+theme: "PaperMod"
+
+params:
+  description: "Página ACME - Rafael Alastuey"
+  author: Rafael Alastuey
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true
+    # disableFingerprinting: true
+    favicon: "https://www.rab-devs.com/icon.png"
+    favicon16x16: "https://www.rab-devs.com/icon.png"
+    favicon32x32: "https://www.rab-devs.com/icon.png"
+    apple_touch_icon: "https://www.rab-devs.com/icon.png"
+    safari_pinned_tab: "https://www.rab-devs.com/icon.png"
+
+  homeInfoParams:
+    Title: "Hola \U0001F44B"
+    Content: Bienvenido a este blog de viajes
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/rafaelzgz"
+    - name: github
+      url: "https://github.com/RafaElZgz"
+
+menu:
+  main:
+    - identifier: contact
+      name: Contacto
+      url: /contact
+      weight: 10
+    - identifier: about
+      name: Acerca de
+      url: /about
+      weight: 20
+    - identifier: rab
+      name: RAB Developments
+      url: https://www.rab-devs.com
+      weight: 30
