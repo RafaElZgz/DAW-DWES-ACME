@@ -46,15 +46,27 @@ params:
 
 menu:
   main:
+    - identifier: home
+      name: Inicio
+      url: /
+      weight: 10
+    - identifier: travels
+      name: Viajes
+      url: /travels
+      weight: 20
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 30
     - identifier: contact
       name: Contacto
       url: /contact
-      weight: 10
+      weight: 40
     - identifier: about
       name: Acerca de
       url: /about
-      weight: 20
+      weight: 50
     - identifier: rab
       name: RAB Developments
       url: https://www.rab-devs.com
-      weight: 30
+      weight: 60
