@@ -4,10 +4,11 @@ draft: false
 ShowReadingTime: false
 ShowWordCount: false
 cover:
-    image: "https://st.depositphotos.com/1342384/1401/i/950/depositphotos_14014450-stock-photo-coliseum-view-from-foro-romano.jpg"
+    image: "/media/travels/europe/roma.jpg"
     alt: "Coliseo Romano"
     caption: "Coliseo Romano"
     relative: false
     hidden: true
 ---
 
+![Coliseo Romano](/media/travels/europe/roma.jpg)
