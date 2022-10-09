@@ -88,3 +88,7 @@ menu:
       name: RAB Developments
       url: https://www.rab-devs.com
       weight: 60
+    - identifier: mosaic
+      name: Datos remotos
+      url: /mosaic
+      weight: 70
