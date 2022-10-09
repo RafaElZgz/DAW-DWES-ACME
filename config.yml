@@ -76,6 +76,10 @@ menu:
       name: Contacto
       url: /contact
       weight: 40
+    - identifier: films
+      name: Películas
+      url: /films
+      weight: 45
     - identifier: about
       name: Acerca de
       url: /about

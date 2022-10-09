@@ -17,6 +17,6 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
 passages, and more recently with desktop publishing software like Aldus PageMaker including 
 versions of Lorem Ipsum.
 
-t is a long established fact that a reader will be distracted by the readable content of a 
+It is a long established fact that a reader will be distracted by the readable content of a 
 page when looking at its layout.
 ```
