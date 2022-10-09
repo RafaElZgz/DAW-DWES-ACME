@@ -89,6 +89,10 @@ menu:
       url: https://www.rab-devs.com
       weight: 60
     - identifier: mosaic
-      name: Datos remotos
+      name: Remoto
       url: /mosaic
       weight: 70
+    - identifier: education
+      name: Institutos
+      url: /education
+      weight: 80

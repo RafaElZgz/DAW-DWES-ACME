@@ -1,0 +1,22 @@
+<table>
+    <tr>
+        <th><b>Localidad</b></th>
+        <th></th>
+        <th><b>Naturaleza</b></th>
+        <th></th>
+        <th><b>Nombre</b></th>
+        <th></th>
+        <th><b>Tipo</b></th>
+    </tr>
+    {{- range .Site.Data.centros_educativos }}
+    <tr>
+        <td style="font-size: small">{{ .localidad }}</td>
+        <td></td>
+        <td style="font-size: small">{{ .naturaleza }}</td>
+        <td></td>
+        <td style="font-size: small">{{ .nombre }}</td>
+        <td></td>
+        <td style="font-size: xx-small">{{ .tipo }}</td>
+    </tr>
+    {{- end }}
+</table>
